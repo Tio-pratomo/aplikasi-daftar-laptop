@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nama": "ASUS X44H",
+        "harga": 1600000,
+        "produsen": "ASUS",
+        "layar": "14 inch",
+        "gambar": "ASUS_X44H"
+    },
+    {
+        "id": 2,
+        "nama": "ASUS X200CA",
+        "harga": 2850000,
+        "produsen": "ASUS",
+        "layar": "12 inch",
+        "gambar": "ASUS_X200CA"
+    },
+    {
+        "id": 3,
+        "nama": "ASUS X200MA",
+        "harga": 3095000,
+        "produsen": "ASUS",
+        "layar": "12 inch",
+        "gambar": "ASUS_X200MA"
+    },
+    {
+        "id": 4,
+        "nama": "ASUS X540LJ",
+        "harga": 5900000,
+        "produsen": "ASUS",
+        "layar": "15 inch",
+        "gambar": "ASUS_X540LJ"
+    },
+    {
+        "id": 5,
+        "nama": "ASUS A456UQ",
+        "harga": 9750000,
+        "produsen": "ASUS",
+        "layar": "14 inch",
+        "gambar": "ASUS_A456UQ"
+    },
+    {
+        "id": 6,
+        "nama": "ASUS VivoBook X540YA",
+        "harga": 3750000,
+        "produsen": "ASUS",
+        "layar": "14 inch",
+        "gambar": "ASUS_VivoBook_X540YA"
+    },
+    {
+        "id": 7,
+        "nama": "ASUS VivoBook Max X441UV",
+        "harga": 4000000,
+        "produsen": "ASUS",
+        "layar": "14 inch",
+        "gambar": "ASUS_VivoBook_Max_X441UV"
+    },
+    {
+        "id": 8,
+        "nama": "ASUS X441BA",
+        "harga": 6200000,
+        "produsen": "ASUS",
+        "layar": "14 inch",
+        "gambar": "ASUS_X441BA"
+    },
+    {
+        "id": 9,
+        "nama": "ASUS ROG FX502VM-DM613t",
+        "harga": 11300000,
+        "produsen": "ASUS",
+        "layar": "15 inch",
+        "gambar": "ASUS_ROG_FX502VM-DM613t"
+    },
+    {
+        "id": 10,
+        "nama": "ASUS EeeBook E202SA",
+        "harga": 3700000,
+        "produsen": "ASUS",
+        "layar": "12 inch",
+        "gambar": " ASUS_EeeBook_E202SA"
+    }
+]
